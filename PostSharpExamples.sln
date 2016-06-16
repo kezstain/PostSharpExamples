@@ -19,6 +19,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnMethodBoundaryExample.Bef
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnMethodBoundaryExample.After", "OnMethodBoundaryExample.After\OnMethodBoundaryExample.After.csproj", "{31FF1EC5-56A4-47D9-B3C0-1173A4EAA958}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{01852648-1AD3-400C-B77A-EE62C23300E3}"
+	ProjectSection(SolutionItems) = preProject
+		Documentation\PostSharp Presentation.pptx = Documentation\PostSharp Presentation.pptx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
